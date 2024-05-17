@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T06:59:19.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rcvsfEykMptn0ZzTW4OR" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T07:04:13.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="A7-FnM40Eejv37vfL85z" version="24.4.3" type="github">
   <diagram name="Page-1" id="wcxV-RO2yD6FrwPAiPit">
     <mxGraphModel dx="2937" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A72UWMM4QbEuQhpOotkm-356" value="&lt;b&gt;The vision statement simply serves as a way to identify long term goals and what we would like to achieve from the project.&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="640" width="170" height="110" as="geometry" />
+          <mxGeometry x="-691" y="617" width="261" height="133" as="geometry" />
         </mxCell>
         <mxCell id="A72UWMM4QbEuQhpOotkm-357" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.133;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A72UWMM4QbEuQhpOotkm-356" target="A72UWMM4QbEuQhpOotkm-288">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
