@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fayo Eboda
 ==================================================================================================================================
 
-Business and Data Analyst Student
+Data Analyst
 ---------------------------------
 
-I'm an undergrad Business Systems and Processes major with a minor in Business Analytics at Towson University. I'm all about analyzing and jazzing up business and data operations. I've got skills in Data analysis, Python, R programming, SQL, Data visualization (like Tableau & PowerBI), and even a bit of machine learning magic. Plus, I'm no stranger to tools like SAP, HTML, CSS, JavaScript, Microsoft Office, Excel, and more! I'm a motivated team player who's up for a challenge, and I've got the coursework to prove it – SAP ERP Systems, SQL, R, Python, Tableau, and Excel are my jam. I'm itching to dive into the Business-Technology industry, explore cutting-edge tech, and keep the buzz on industry trends. Let's connect and make some organizational magic! 💼✨
+I'm a recent graduate with a Bachelors of Science degree in Business Information Systems and Processes from Towson University. Passionate about optimizing business and data operations, I bring skills in data analysis, Python, R, SQL, and data visualization tools like Tableau and Power BI, along with foundational knowledge in machine learning. I’m excited to kickstart my career, dive into emerging tech, and stay current with industry trends. Looking forward to making an impact! 💼✨
 
-* 🌍  I'm based in Columbia, MD
+* 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [fayoeboda02@gmail.com](mailto:fayoeboda02@gmail.com)
-* 🧠  I'm learning Operations Management, Salesforce Developement (CRM)
 
 ### Skills
 
